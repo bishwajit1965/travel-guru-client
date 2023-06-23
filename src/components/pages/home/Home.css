@@ -1,0 +1,8 @@
+.home-links a {
+  color: #fff;
+  font-weight: 700;
+}
+.link-color a.active {
+  color: aqua;
+  border-bottom: 3px solid aqua;
+}
